@@ -1,0 +1,6 @@
+@Zadanie_Rekrutacyjne_SharpAi_HostAddress = http://localhost:5115
+
+GET {{Zadanie_Rekrutacyjne_SharpAi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
